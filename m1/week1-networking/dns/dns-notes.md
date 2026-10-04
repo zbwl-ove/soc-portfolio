@@ -40,5 +40,7 @@ The DNS server returned the answer to the client.
 
 ## Evidence
 
-- `dns-query-google.png`
-- `dns-response-google.png`
+## Evidence
+
+![DNS Query](dns-query-google.png)
+![DNS Response](dns-response-google.png)

@@ -47,7 +47,7 @@ The client first sends a SYN, the server responds with SYN-ACK, and the client s
 
 ## Evidence
 
-- `tcp-handshake.png`
+[TCP 3-Way Handshake](tcp-handshake.png)
 
 ## Tool Used
 
